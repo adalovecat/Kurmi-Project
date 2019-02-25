@@ -1,0 +1,24 @@
+p {
+	color: pink;
+}
+h2 {
+  background-color: #FAB26F;
+  font-family: 'Playfair Display', serif;
+  color: white;}
+}
+/* unvisited link
+a:link {
+  color: green;
+}
+ visited link
+a:visited {
+  color: orange;
+}
+mouse over link
+a:hover {
+  color: pink;
+}
+/* selected link
+a:active {
+  color: yellow;
+} */
